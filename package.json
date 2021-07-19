@@ -1,0 +1,22 @@
+{
+  "name": "mycenter-npm",
+  "version": "1.0.0",
+  "description": "myCenter API wrapper for Node.JS users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myCenter-Roblox/mycenter-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myCenter-Roblox/mycenter-npm/issues"
+  },
+  "homepage": "https://github.com/myCenter-Roblox/mycenter-npm#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
