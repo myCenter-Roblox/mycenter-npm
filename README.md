@@ -8,7 +8,7 @@ This will be the most simple form of documentation that you will  ever see in an
 ```js
 // Intiilization
 const myCenter = require('mycenter-npm');
-const GroupBot = new myCenter(("mcv5_group_bot:many-other-letters-and-numbers"));
+const GroupBot = new myCenter("mcv5_group_bot:many-other-letters-and-numbers");
 
 // Functions
 
