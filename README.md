@@ -1,6 +1,9 @@
 # mycenter-npm
 myCenter API wrapper for Node.JS users.
 
+# Installation
+Install by running the `npm install --save mycenter-npm` command.
+
 # Usage
 
 This will be the most simple form of documentation that you will  ever see in an NPM package. If you aren't familiar with Node.JS, **steer clear away from here**.
