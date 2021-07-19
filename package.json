@@ -1,6 +1,6 @@
 {
   "name": "mycenter-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "myCenter API wrapper for Node.JS users.",
   "main": "index.js",
   "scripts": {

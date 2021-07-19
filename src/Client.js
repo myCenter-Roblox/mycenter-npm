@@ -33,7 +33,7 @@ class myCenterClient {
     if (typeof userId !== "number") throw new Error("The user ID must be a number!");
     if (typeof rankId !== "number") throw new Error("The rank ID must be a number!");
 
-    if (rankId > 255) throw new Error("The rank ID must be a number less than 255!");
+    if (rankId > 255 || rank < 1) throw new Error("The rank ID must be a number greater than 0 and less than 255!");
 
     return this.makeRequest("rank", {
       userId: userId,
